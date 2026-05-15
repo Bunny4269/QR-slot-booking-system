@@ -1,0 +1,20 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
